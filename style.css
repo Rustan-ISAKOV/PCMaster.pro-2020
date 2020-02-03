@@ -1,0 +1,81 @@
+/*-----------------------------------------------------------------             
+              
+-------------------------------------------------------------------*/
+                                                                                                                                                                                                         
+                                                                                                                                                                                                            
+/** CSS-AddOn for Large  screen First responsiveness approch */
+           
+                                                 
+                
+/* Screen small than 1024px */  
+@media (max-width : 1024px){
+	.pane-when{  
+	}   
+	.pane-when .content{  
+		position: absolute; 
+		top: 50%;
+		left: 0;
+		right: 0; 
+	} 
+	.pane-when::after {
+/*		display: none;*/ 
+	} 
+	.pane-when .clock{ 
+		width: 270px; 
+		margin-top: 20px;
+	} 
+	.pane-when .logo {  
+		width: 100%;   
+	}         
+    .pane-when .logo img {          
+        height: 160px;              
+        width: auto;             
+    	text-align: center,;             
+    }     
+	.pane-when .clock .elem-center .digit{  
+    	font-size: 140px;      
+	}          
+	.pane-when .clock .elem-center .txt {    
+		top: 1em;  
+		font-size: 20px;
+	}
+	.pane-when .clock .elem-bottom .deco:after,
+	.pane-when .clock .elem-bottom .deco:before{
+		width: 10px; 
+		height: 70px;
+		bottom: 17px;
+	} 
+	.pane-when .clock .elem-bottom:before{
+		right: 0;
+		left: 85%; 
+	} 
+	.pane-when .clock .elem-bottom:after{
+		left: 0;
+		right: 85%;
+	}
+	.pane-when .clock .elem-bottom {
+		font-size: 20px;
+	}
+	.pane-when .clock .elem-bottom>span{
+		margin-top: -6px;
+		vertical-align: top;
+		display: inline-block;
+	}
+	
+	.page-cent .content ,
+    .page-about .content {
+		padding-left: 32px;
+		padding-right: 56px;
+	}
+	
+} 
+/* Screen Small than 768px */
+@media (max-width : 768px){
+	.pane-when .clock{
+		width: 210px;
+		margin-top: 20px;
+	}
+	.pane-when .clock .elem-center .digit{
+    	font-size: 96px;
+	}
+	.pane-when .clock .elem-center .
