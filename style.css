@@ -1,7 +1,7 @@
 /*-----------------------------------------------------------------             
                
 -------------------------------------------------------------------*/
-                                                                                                                                                                                                                                                                         
+                                                                                                                                                                                                                                                                          
                                                                                                                                                                                                                                                  
 /** CSS-AddOn for Large  screen First responsiveness approch */
                                       
@@ -12,7 +12,7 @@
 	.pane-when .content{  
 		position: absolute; 
 		top: 50%;
-		left: 0; 
+		left: 0;  
 		right: 0;   
 	} 
 	.pane-when::after {
@@ -25,7 +25,7 @@
 		width: 100%;   
 	}         
     .pane-when .logo img {          
-        height: 160px;               
+        height: 160px;                
         width: auto;             
     	text-align: center,;             
     }     
