@@ -17,8 +17,7 @@
 	} 
 	.pane-when::after {
 /*		display: none;*/   
-	.pane-when .clock{  
-		width: 270px;   
+	.pane-when .clock{   
 		margin-top: 20px;  
 	}   
 	.pane-when .logo {  
