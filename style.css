@@ -46,7 +46,7 @@
 		left: 85%; 
 	} 
 	.pane-when .clock .elem-bottom:after{
-		left: 0;
+		left: 0; 
 		right: 85%;
 	}
 	.pane-when .clock .elem-bottom {
