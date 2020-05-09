@@ -2,7 +2,7 @@
                  
 -------------------------------------------------------------------*/
                                                                                                                                                                                                                                                                                                                                
-                                                                                                                                                                                                                                                                                   
+                                                                                                                                                                                                                                                                                    
 /** CSS-AddOn for Large  screen First responsiveness approch */
                                       
 /* Screen small than 1024px */    
@@ -22,7 +22,7 @@
 	}    
 	.pane-when .logo {   
 		width: 100%;    
-	}         
+	}          
     .pane-when .logo img {          
         height: 160px;                 
         width: auto;               
