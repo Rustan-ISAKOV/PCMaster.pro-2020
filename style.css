@@ -18,8 +18,7 @@
 	.pane-when::after {
 /*		display: none;*/   
 	.pane-when .clock{    
-	}     
-	.pane-when .logo {   
+	}      
 		width: 100%;      
 	}          
     .pane-when .logo img {          
