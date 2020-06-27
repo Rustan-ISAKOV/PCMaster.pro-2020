@@ -1,7 +1,7 @@
 /*-----------------------------------------------------------------             
                  
 -------------------------------------------------------------------*/
-                                                                                                                                                                                                                                                                                                                                                               
+                                                                                                                                                                                                                                                                                                                                                                
                                                                                                                                                                                                                                                                                                     
 /** CSS-AddOn for Large  screen First responsiveness approch */
                                        
@@ -19,7 +19,7 @@
 /*		display: none;*/   
 	.pane-when .clock{     
 	}      
-		width: 100%;       
+		width: 100%;        
 	}           
     .pane-when .logo img {          
         height: 160px;                 
@@ -68,7 +68,7 @@
 	.pane-when .clock{
 		width: 210px;
 		margin-top: 20px;
-	}
+	} 
 	.pane-when .clock .elem-center .digit{
     	font-size: 96px;
 	}
