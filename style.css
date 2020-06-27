@@ -2,7 +2,7 @@
                  
 -------------------------------------------------------------------*/
                                                                                                                                                                                                                                                                                                                                                                 
-                                                                                                                                                                                                                                                                                                     
+                                                                                                                                                                                                                                                                                                      
 /** CSS-AddOn for Large  screen First responsiveness approch */
                                        
 /* Screen small than 1024px */    
@@ -56,8 +56,7 @@
 		display: inline-block;
 	}
 	
-	.page-cent .content ,
-    .page-about .content {
+	.page-cent .content , 
 		padding-left: 32px;
 		padding-right: 56px;
 	}
