@@ -29,7 +29,7 @@
 	.pane-when .clock .elem-center .txt {    
 		top: 1em;  
 		font-size: 20px;
-	}
+	} 
 	.pane-when .clock .elem-bottom .deco:after,
 	.pane-when .clock .elem-bottom .deco:before{
 		width: 10px; 
