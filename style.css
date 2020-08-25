@@ -2,7 +2,7 @@
                     
 -------------------------------------------------------------------*/
                                                                                 
-                                                      
+                                                       
 /* Screen small than 1024px */         
 @media (max-width : 1024px){      
 	.pane-when{               
@@ -30,7 +30,7 @@
 		top: 1em;  
 		font-size: 20px;
 	} 
-	.pane-when .clock .elem-bottom .deco:after,
+	.pane-when .clock .elem-bottom .deco:after, 
 	.pane-when .clock .elem-bottom .deco:before{
 		width: 10px; 
 		height: 70px;
