@@ -27,7 +27,7 @@ src:local('Cera PRO Medium'), local('CeraPRO-Medium'),url('../style/fonts/cerapr
 font-weight:500;
 font-style:normal;
 }
- 
+  
 @font-face {
 font-family:'Cera PRO';
 src:local('Cera PRO Bold'), local('CeraPRO-Bold'),url('../style/fonts/cerapro/CeraPRO-Bold.woff') format('woff');
