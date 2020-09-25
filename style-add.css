@@ -4,7 +4,7 @@
 font-family:'Cera PRO';
 src:local('Cera PRO Thin'), local('CeraPRO-Thin'),url('../style/fonts/cerapro/CeraPRO-Thin.woff') format('woff');
 font-weight:100;
-font-style:normal;   
+font-style:normal;    
 }       
            
 @font-face {   
