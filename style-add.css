@@ -7,7 +7,7 @@ font-weight:100;
 font-style:normal;    
 }           
            
-@font-face {   
+@font-face {    
 font-family:'Cera PRO';
 src:local('Cera PRO Light'), local('CeraPRO-Light'),url('../style/fonts/cerapro/CeraPRO-Light.woff') format('woff');
 font-weight:300;
