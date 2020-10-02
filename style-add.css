@@ -19,7 +19,7 @@ font-family:'Cera PRO';
 src:local('Cera PRO Regular'), local('CeraPRO-Regular'),url('../style/fonts/cerapro/CeraPRO-Regular.woff') format('woff');
 font-weight:400;
 font-style:normal;
-}
+} 
 
 @font-face {
 font-family:'Cera PRO';
