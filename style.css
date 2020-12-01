@@ -7,7 +7,7 @@
 	.pane-when{                                  
 	.pane-when .content{                 
 		position: absolute;          
-		left: 0;          
+		left: 0;           
 		right: 0;    
 	} 
 	.pane-when::after { 
