@@ -4,7 +4,7 @@
 
 /* Screen small than 1024px */               
 @media (max-width : 1024px){                
-	.pane-when{                                      
+	.pane-when{                                       
 	.pane-when .content{                      
 		position: absolute;            
 		left: 0;           
