@@ -10,7 +10,7 @@
 		left: 0;            
 		right: 0;     
 	} 
-	.pane-when::after { 
+	.pane-when::after {  
 /*		display: none;*/   
 	.pane-when .clock{     
 	}      
