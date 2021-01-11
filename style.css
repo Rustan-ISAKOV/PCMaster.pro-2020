@@ -6,7 +6,7 @@
 @media (max-width : 1024px){                   
 	.pane-when{                                               
 	.pane-when .content{                                   
-		right: 0;         
+		right: 0;          
 	.pane-when::after {    
 /*		display: none;*/    
 	.pane-when .clock{     
