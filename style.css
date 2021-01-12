@@ -32,7 +32,7 @@
 		bottom: 17px;
 	} 
 	.pane-when .clock .elem-bottom:before{
-		right: 0;
+		right: 0; 
 		left: 85%; 
 	} 
 	.pane-when .clock .elem-bottom:after{
